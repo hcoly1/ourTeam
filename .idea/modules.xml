@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ot-common/ot-common.iml" filepath="$PROJECT_DIR$/ot-common/ot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-manager/ot-manager.iml" filepath="$PROJECT_DIR$/ot-manager/ot-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-manager/ot-manager-dao/ot-manager-dao.iml" filepath="$PROJECT_DIR$/ot-manager/ot-manager-dao/ot-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-manager/ot-manager-interface/ot-manager-interface.iml" filepath="$PROJECT_DIR$/ot-manager/ot-manager-interface/ot-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-manager/ot-manager-pojo/ot-manager-pojo.iml" filepath="$PROJECT_DIR$/ot-manager/ot-manager-pojo/ot-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-manager/ot-manager-service/ot-manager-service.iml" filepath="$PROJECT_DIR$/ot-manager/ot-manager-service/ot-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-manager-web/ot-manager-web.iml" filepath="$PROJECT_DIR$/ot-manager-web/ot-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-parent/ot-parent.iml" filepath="$PROJECT_DIR$/ot-parent/ot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ot-portal/ot-portal.iml" filepath="$PROJECT_DIR$/ot-portal/ot-portal.iml" />
+    </modules>
+  </component>
+</project>

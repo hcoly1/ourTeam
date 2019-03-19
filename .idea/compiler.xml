@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ot-common" />
+        <module name="ot-manager-dao" />
+        <module name="ot-manager-interface" />
+        <module name="ot-manager-pojo" />
+        <module name="ot-manager-service" />
+        <module name="ot-portal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ot-common" target="1.7" />
+      <module name="ot-manager" target="1.7" />
+      <module name="ot-manager-dao" target="1.7" />
+      <module name="ot-manager-interface" target="1.7" />
+      <module name="ot-manager-pojo" target="1.7" />
+      <module name="ot-manager-service" target="1.7" />
+      <module name="ot-manager-web" target="1.7" />
+      <module name="ot-parent" target="1.7" />
+      <module name="ot-portal" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
